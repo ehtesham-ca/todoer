@@ -1,6 +1,8 @@
 # todoer
 A multi platform todo list app
-
+    - Add/Remove ToDo Item
+    - Accept/Reject Todo Item
+    - Notification on Assigned Item State Changes 
 
 ## Objective
 - Build a Simple ToDo list app to try out OR brush up the concepts on great tools out there.
